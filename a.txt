@@ -1,1 +1,2 @@
-Funky fried friends :)
+I just changed a.txt
+Wrote some shit in here :)
